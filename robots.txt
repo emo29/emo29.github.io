@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emo29.github.io/sitemap.xml
+Sitemap: https://emo29.github.io/emido-releases/sitemap.xml
+Host: emo29.github.io
